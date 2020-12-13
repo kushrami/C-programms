@@ -1,4 +1,4 @@
-//This program illustrats basic io printf scanfs and variable declarations and all.
+//This program illustrates basic io printf scanfs and variable declarations and all.
 
 #include <stdio.h>
 void main ()
